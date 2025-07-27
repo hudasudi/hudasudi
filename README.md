@@ -1,5 +1,5 @@
 
-## Hi I'm Huda ✨
+## Hi I'm Huda 🌟
 
 # 💫 About Me:
 🎓 Software Engineering Student at the University of Strathclyde  
