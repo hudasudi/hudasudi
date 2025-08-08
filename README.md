@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 🎓 Software Engineering Student at the University of Strathclyde  
-💻 Aspiring Web and Mobile Developer
+🧑‍💻 Aspiring Web and Mobile Developer
 
 ---
 
