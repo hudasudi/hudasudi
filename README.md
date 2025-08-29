@@ -2,7 +2,7 @@
 ## Hi I'm Huda 🌟
 
 # 💫 About Me:
-🎓 Software Engineering Student at the University of Strathclyde  
+🎓 Software Engineering Student @ University of Strathclyde  
 🧑‍💻 Aspiring Web and Mobile Developer
 
 ---
